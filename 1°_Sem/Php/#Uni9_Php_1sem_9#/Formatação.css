@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+        background-color: black;
+}
+
+echo {
+        color: white;
+        font-family: Impact;
+}
+
+h1 {
+        font-family: Impact;
+        text-align: center;
+        color: White;
+        text-shadow: 5px 5px 40px red;
+}
+
+form {
+        font-family: Impact;
+        font-size: 12pt;
+        color: White;
+        text-shadow: 5px 5px 40px red;
+        text-align: left;
+}
