@@ -1,0 +1,13 @@
+import '0_variaveis.dart';
+import '1_variaveis_var_dynamic.dart';
+import '2_operacoes_matematicas.dart';
+import '3_desvio_condicional.dart';
+import '4_loops.dart';
+import '5_funcoes.dart';
+import '6_funcoes_com_parametros_opcionais.dart';
+import '7_funcoes_com_nullable.dart';
+import '8_funcoes_anonimas.dart';
+import '9_escopo_de_variaveis.dart';
+import '10_listas.dart';
+import 'solucao_baskara_con_funcoes.dart';
+import 'solucao_baskara.dart';
