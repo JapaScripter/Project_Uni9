@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+  int i, n=500;
+	float x[500], total, maior, menor, media;
+
+	printf("Primeiro Exemplo: \n");
+	for (i=0; i<n; i += 5) {
+		x[i] = i+5;
+	}
+
+	for (i=0; i<n; i+= 5) {
+		printf("x = %4.1f\n", i, x[i]);
+	}
+	return 0;
+}
